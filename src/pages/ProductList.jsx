@@ -1,10 +1,9 @@
  import React from 'react'
-import Sidebar from '../components/Sidebar'
  
  const ProductList = () => {
    return (
      <div>
-       <Sidebar />
+       <h1> Product page list</h1>
      </div>
    )
  }
